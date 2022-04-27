@@ -8,3 +8,4 @@ A collection of algorithma and data structure write ups.
 | [Subsets](writeups/subsets.md)                                           | #easy      | #subsets             | Educative |
 | [Balanced Parentheses](writeups/balanced-parentheses.md)                 | #hard      | #subsets             | Educative |
 | [Order-agnostic Binary Search](writeups/order-agnostic-binary-search.md) | #easy      | #binary-search       | Educative |
+| [Topological Sort](writeups/topological-sort.md)                         | #medium    | #topological-sort    | Educative |
